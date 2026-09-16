@@ -2,13 +2,12 @@
 
 ### 14/09 · Mis aficiones
 
-Llevo jugando al balonmano desde los ocho años, en el equipo
-del pueblo. Lo que más me gusta no es marcar, es el momento
-en que sale una jugada que habíamos entrenado veinte veces
-y por fin sale. Entreno martes y jueves, y los sábados hay
-partido. También llevo dos años tocando la guitarra, aunque
-ahí voy mucho más lento: me sé cuatro canciones y media.
+Llevo en el club de natación de Langreo tres años, aunque el curso  pasado no fui, este año voy a volver para seguir entrenando. 
+Lo que más me gusta de nadar es que no pienso en nada más y me permite desconectar de todo, además de que me lo paso muy bien con mis compañeras.
+Entreno los martes y jueves, pero no compito porque no me gusta demasiado.
 
-![Un balón de balonmano](capturas/balonmano.jpg)
+Aunque esa es mi afición principal, también toco el piano y me gusta escuchar música y salir con mis amigos en mi tiempo libre
+
+
 
 ---
