@@ -1,7 +1,10 @@
 [← Volver al inicio](README.md)
 
 # Temas del curso
+Aquí van las entradas de tema: las que propone el profesor a lo largo del curso.
+Son de 50 a 100 palabras y llevan una imagen.
 
+**Cada una nueva va debajo de la anterior.**
 ### 14/09 · Mis aficiones
 
 Llevo en el club de natación de Langreo tres años, aunque el curso  pasado no fui, este año voy a volver para seguir entrenando. 
