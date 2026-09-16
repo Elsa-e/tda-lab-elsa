@@ -10,6 +10,7 @@ Aunque esa es mi afición principal, también toco el piano y me gusta escuchar 
 
 Buscando en Github he encontrado https://github.com/agvdndor/Swimming-Stroke-Rate-Analysis , un programa sobre la técnica de natación.
 
-![Uploading image.png…]()
+<img width="1024" height="684" alt="image" src="https://github.com/user-attachments/assets/2ce1ac57-a7d2-4337-82c7-0605318d9e1f" />
+
 
 ---
