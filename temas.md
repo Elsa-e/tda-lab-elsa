@@ -8,6 +8,6 @@ Entreno los martes y jueves, pero no compito porque no me gusta demasiado.
 
 Aunque esa es mi afición principal, también toco el piano y me gusta escuchar música y salir con mis amigos en mi tiempo libre
 
-
+Buscando en Github he encontrado https://github.com/agvdndor/Swimming-Stroke-Rate-Analysis , un programa sobre la técnica de natación.
 
 ---
