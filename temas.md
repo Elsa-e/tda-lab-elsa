@@ -8,6 +8,6 @@ Entreno los martes y jueves, pero no compito porque no me gusta demasiado.
 
 Aunque esa es mi afición principal, también toco el piano y me gusta escuchar música y salir con mis amigos en mi tiempo libre
 
-https://github.com/Elsa-e/tda-lab-elsa/blob/main/capturas/natacion-fisioterapia-wp-1-1024x684.webp?raw=true
+
 
 ---
