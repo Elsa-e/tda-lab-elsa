@@ -19,3 +19,15 @@ Buscando en Github he encontrado [Swimming Stroke](https://github.com/agvdndor/S
 
 
 ---
+
+
+### 28/09 · Premios Princesa de Asturias: Bóveda global de semillas de Svalbard
+
+TU TEXTO DE 50 A 100 PALABRAS. En mitad del texto va el enlace, así:
+[su página en la Fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-boveda-global-de-semillas-svalbard/)
+
+![DESCRIPCIÓN CORTA](capturas/NOMBRE-DE-TU-IMAGEN.jpg)
+
+Imagen: AUTOR, [Wikimedia Commons](https://commons.wikimedia.org/...)
+
+---
