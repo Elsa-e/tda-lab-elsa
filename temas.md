@@ -24,11 +24,11 @@ Buscando en Github he encontrado [Swimming Stroke](https://github.com/agvdndor/S
 ### 28/09 · Premios Princesa de Asturias: Bóveda Global de Semillas de Svalbard
 
 La Bóveda Global de Semillas de Svalbard es un banco de semillas que está en la isla de Spitsbergen, que se localiza en un archipiélago noruego. Se inauguró en 2008 y tienen más de mil metros cuadrados; el objetivo principal es tener unos almacenes para guardar semillas de cultivos por si en un futuro ocurre algún desastre sea natural o sea algún conflicto global. Le han dado a esta estructura el Premio Princesa de Asturias a la Cooperación Internacional 2026 por estas razones; ya que además de contribuir a un futuro mejor para todos aquellos que tengan problemas relacionados con la abundancia de alimentos, también contribuye a conservar diferentes alimentos.
-Yo lo he escogido porque me
-TU TEXTO DE 50 A 100 PALABRAS. En mitad del texto va el enlace, así:
-![su página en la Fundación](capturas/boveda.semillas.jpg)
+Yo lo he escogido porque me parece muy interesante y útil en muchos aspectos.
+[Página web bóveda semillas](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-boveda-global-de-semillas-svalbard/)
 
-![DESCRIPCIÓN CORTA](/github.com/Elsa-e/tda-lab-elsa/blob/main/capturas/boveda.semillas.jpg)
+![Bóveda semillas](capturas/boveda.semillas.jpg)
+
 
 Imagen: Einar Jørgen Haraldseid, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Svalbard_seed_vault.jpg)
 
