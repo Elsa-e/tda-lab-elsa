@@ -33,3 +33,15 @@ Yo lo he escogido porque me parece muy interesante y útil en muchos aspectos.
 Imagen: Einar Jørgen Haraldseid, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Svalbard_seed_vault.jpg)
 
 ---
+
+### 13/10 · Ada Lovelace
+
+Ada Lovelace fue según algunas fuentes la primera programadora de la historia. Me he informado sobre ella lo que he descubierto ha sido fascinante. Ada Lovelace era hija del famoso Lord Byron y de Anna Isabella Milbanke, ella era una niña que se ponía enferma con facilidad por lo que su madre intentó que tuviera una muy buena educación, siendo muy estricta y contratando tutores para que le enseñaran matemáticas. La imaginación de Ada hizo posible que se desarrollaran varios conceptos que en la actualidad se siguen usando y podrían considerarse visionarios. Sobre todo, el desarrollo de lo que hoy se conoce como algoritmo informático es el más célebre de sus descubrimientos. 
+Por todos estos descubrimientos hechos por la pionera de la informática, cada año desde 2009, se celebra el día internacional de Ada Lovelace el segundo martes de octubre; con ello se pretende visibilizar los logros de la mujer en campos científicos y además, pretende rendir homenaje específicamente a la figura de esta mujer.
+
+[Ada Lovelace en National Geographic](https://historia.nationalgeographic.com.es/a/ada-lovelace-visionaria-hija-lord-byron_15864)
+
+![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
+*PIE DE FOTO. Imagen: A E Chalon (1780-1860), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Watercolour,_Ada_Lovelace,_possibly_by_A_E_Chalon_(1780-1860),_(c1840)._25_x_18.3_cm.png)*
+
+---
