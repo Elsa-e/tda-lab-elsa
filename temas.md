@@ -43,6 +43,6 @@ Por todos estos descubrimientos hechos por la pionera de la informática, cada a
 
 ![DESCRIPCIÓN CORTA](capturas/ada.png){: width="300"}
 
-Imagen: A E Chalon (1780-1860), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Watercolour,_Ada_Lovelace,_possibly_by_A_E_Chalon_(1780-1860),_(c1840)._25_x_18.3_cm.png)*
+Imagen: A E Chalon (1780-1860), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Watercolour,_Ada_Lovelace,_possibly_by_A_E_Chalon_(1780-1860),_(c1840)._25_x_18.3_cm.png)
 
 ---
