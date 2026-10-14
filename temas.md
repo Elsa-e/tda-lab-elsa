@@ -41,7 +41,7 @@ Por todos estos descubrimientos hechos por la pionera de la informática, cada a
 
 [Ada Lovelace en National Geographic](https://historia.nationalgeographic.com.es/a/ada-lovelace-visionaria-hija-lord-byron_15864)
 
-![DESCRIPCIÓN CORTA](capturas/ada.jpg){: width="300"}
+![DESCRIPCIÓN CORTA](capturas/ada.png){: width="300"}
 *PIE DE FOTO. Imagen: A E Chalon (1780-1860), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Watercolour,_Ada_Lovelace,_possibly_by_A_E_Chalon_(1780-1860),_(c1840)._25_x_18.3_cm.png)*
 
 ---
